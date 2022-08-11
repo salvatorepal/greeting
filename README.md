@@ -1,2 +1,2 @@
 # greeting
-Testing Hello World
+Testing Greet() function
